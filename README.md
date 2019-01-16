@@ -6,7 +6,7 @@ Tweak https://github.com/pindexis/marker.git
 [![asciicast](https://asciinema.org/a/122370.png)](https://asciinema.org/a/122370)
 
 # Depends
-1.[zsh](http://www.zsh.org/) more powerful then bash  
+1.[zsh](http://www.zsh.org/) more powerful than bash  
 2.[fzf](https://github.com/junegunn/fzf) A command-line fuzzy finder written in Go
 
 # How to install?
